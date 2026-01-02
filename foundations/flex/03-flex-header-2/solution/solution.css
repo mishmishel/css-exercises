@@ -67,3 +67,6 @@ ul {
   align-items: center;
   gap: 16px;
 }
+
+/* ^ Creates two containers for what is on the left side of the header vs. right side, even spacing between them
+each creates another flex box container to set content within themselves */
